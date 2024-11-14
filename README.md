@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Data Science, Deep Learning, Machine Learning, Python, Statistical Analysis**
 
-- 📫 How to reach me **ravikumarsinha234@gmail.com**
+- 📫 How to reach me **ravikumarsinha234@gmail.com** **rsinha4@student.gsu.edu**
 
 - ⚡ Fun fact **I love hiking. We can go together if you are interested**
 
