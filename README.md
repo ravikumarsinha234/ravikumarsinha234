@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 I’m currently working on **Data Science and Artificial Intelligence Projects**
 
-- 🌱 I’m currently learning **Generative Artificial intelligence, Prompt Engineering**
+- 🌱 I’m currently learning **Generative Artificial intelligence, Prompt Engineering, Data Engineering,**
 
-- 💬 Ask me about **Data Science, Deep Learning, Machine Learning, Python, Statistical Analysis**
+- 💬 Ask me about **Data Science, Deep Learning, Machine Learning, Python, Statistical Analysis, Data Engineering, Data Warehousing, AWS, Azure. As I have used them in the past.**
 
 - 📫 How to reach me **ravikumarsinha234@gmail.com** **rsinha4@student.gsu.edu**
 
