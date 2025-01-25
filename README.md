@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Generative Artificial intelligence, Prompt Engineering, Data Engineering,**
 
-- 💬 Ask me about **Data Science, Deep Learning, Machine Learning, Python, Statistical Analysis, Data Engineering, Data Warehousing, AWS, Azure. As I have used them in the past.**
+- 💬 Ask me about **Data Science, Deep Learning, Machine Learning, Python, Statistical Analysis, Data Engineering, Data Warehousing, Amazon Web Services, Azure. As I have used them in the past.**
 
 - 📫 How to reach me **ravikumarsinha234@gmail.com** **rsinha4@student.gsu.edu**
 
