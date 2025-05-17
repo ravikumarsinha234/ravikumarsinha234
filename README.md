@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ravi Kumar Sinha, Atlanta, United States</h1>
+<h1 align="center">Hi 👋, I'm Ravi Kumar Sinha, Atlanta, United States or Patna,India</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
-- 🔭 I’m currently working on **Data Science and Artificial Intelligence Projects**
+- 🔭 **Data Science and Artificial Intelligence Projects are love but I am good at frontend and backend as well**
 
-- 🌱 I’m currently learning **Generative Artificial intelligence, Prompt Engineering, Data Engineering,**
+- 🌱 I’m currently working on projects related to **Generative Artificial intelligence, Prompt Engineering, Data Engineering,**
 
 - 💬 Ask me about **Data Science, Deep Learning, Machine Learning, Python, Statistical Analysis, Data Engineering, Data Warehousing, Amazon Web Services, Azure. As I have used them in the past.**
 
-- 📫 How to reach me **ravikumarsinha234@gmail.com** **rsinha4@student.gsu.edu**
+- 📫 How to reach me **ravikumarsinha234@gmail.com** **rsinha4@student.gsu.edu**. Directly call me **+91-7004714947**
 
 - ⚡ Fun fact **I love hiking. We can go together if you are interested**
 
