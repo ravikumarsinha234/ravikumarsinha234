@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravi Kumar Sinha, Atlanta, United States or Patna,India</h1>
+<h1 align="center">Hi 👋, I'm Ravi Kumar Sinha, Atlanta, United States or Bangalore,India</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
